@@ -48,6 +48,11 @@ have the following body)
 ![view_statement](https://github.com/RickDeb2004/backend_alemeno/assets/113274631/c91d226b-aecf-4559-9f89-efd5bfebffe9)
 
 
+##**MYSQL WORKBENCH CONFIG**
+
+![image](https://github.com/RickDeb2004/backend_alemeno/assets/113274631/1cd29e58-039b-4eb3-a227-124646332ad7)
+
+
 
 
 ## Technologies Used
